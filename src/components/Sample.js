@@ -1,4 +1,4 @@
-const Sample = ({ loadingPost, loadingUser, post, users }) => {
+const Sample = ({ loadingPost, loadingUsers, post, users }) => {
     return (
         <div>
             <section>
